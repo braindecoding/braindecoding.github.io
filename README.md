@@ -13,3 +13,8 @@ Matlab 2021a with python 3.8 :
     ![image](https://user-images.githubusercontent.com/11188109/237016123-d116ba48-4344-4c4a-b20e-e8fcada5b2f7.png)
 5. python setup.py install
     ![image](https://user-images.githubusercontent.com/11188109/237016387-39c6fd7f-2f86-4409-bfbc-ff12dd448aa6.png)
+
+Test script on :
+```sh
+python main\reconstruction\nnmodel\DGMM_Tensorflow.py
+```
