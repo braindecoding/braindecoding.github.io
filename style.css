@@ -54,3 +54,27 @@ footer {
     text-align: center;
     padding: 10px;
 }
+
+#publications {
+    padding: 20px 40px;
+}
+
+.publication-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.publication-list li {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.publication-title {
+    font-weight: bold;
+}
+
+.cite-this {
+    font-style: italic;
+    margin-top: 10px;
+}
