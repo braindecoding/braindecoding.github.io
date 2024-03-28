@@ -78,3 +78,12 @@ footer {
     font-style: italic;
     margin-top: 10px;
 }
+
+.bibtex-entry {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: 10px;
+    white-space: pre-wrap;
+    overflow-x: auto;
+    font-family: monospace;
+}
